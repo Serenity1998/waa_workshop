@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "167305673009",
+    "project_id": "savetime-app-503fc",
+    "storage_bucket": "savetime-app-503fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167305673009:android:6eb7fee21d1a4e8e139810",
+        "android_client_info": {
+          "package_name": "com.moigroup2k.beauty_salons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167305673009-26fevqqk9fadhnqp4gm75n5ks3se84u9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moigroup2k.beauty_salons",
+            "certificate_hash": "12bbf8e25752b28535e857994fa30ba36641e0f0"
+          }
+        },
+        {
+          "client_id": "167305673009-9bv5t1smncjjbdigtu1mi087c7r8ftrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moigroup2k.beauty_salons",
+            "certificate_hash": "f9ac546c7dc7e46a209088abb214db8847ed7f9f"
+          }
+        },
+        {
+          "client_id": "167305673009-ffipqaq2ihuf1gnenpqv37de5sttvhdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moigroup2k.beauty_salons",
+            "certificate_hash": "ed60ef5acb2d63edebd665982cd5f0678e4a8d4b"
+          }
+        },
+        {
+          "client_id": "167305673009-vih0n8h58unklf1p22h6on5nt36kjrva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzd7CNckHiLddq_26P7sBEa6bbsmWS9s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167305673009-vih0n8h58unklf1p22h6on5nt36kjrva.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167305673009-7q5djubnt77u95fnpu8i91kdim3o2h11.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moigroup2k.beautyowner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167305673009:android:d443122127793d9f139810",
+        "android_client_info": {
+          "package_name": "com.moigroup2k.beauty_salons_owner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167305673009-00ant7fskkhd1ev4g8maenp7faf9347u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moigroup2k.beauty_salons_owner",
+            "certificate_hash": "0c051979b35f18c44f94537d3d9c3f8b50d281c5"
+          }
+        },
+        {
+          "client_id": "167305673009-4knll9nnbdcap1i8vpmlgpot5kol8biv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moigroup2k.beauty_salons_owner",
+            "certificate_hash": "12bbf8e25752b28535e857994fa30ba36641e0f0"
+          }
+        },
+        {
+          "client_id": "167305673009-594mbgej9kkjnvv97sirjcvol4r14r9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moigroup2k.beauty_salons_owner",
+            "certificate_hash": "f9ac546c7dc7e46a209088abb214db8847ed7f9f"
+          }
+        },
+        {
+          "client_id": "167305673009-81d48d6shd3qrm6aqmb5db7gc0q2p0kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moigroup2k.beauty_salons_owner",
+            "certificate_hash": "86a7e4c2d4262e85e6d624addbf56724a10460d6"
+          }
+        },
+        {
+          "client_id": "167305673009-vih0n8h58unklf1p22h6on5nt36kjrva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzd7CNckHiLddq_26P7sBEa6bbsmWS9s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167305673009-vih0n8h58unklf1p22h6on5nt36kjrva.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167305673009-7q5djubnt77u95fnpu8i91kdim3o2h11.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moigroup2k.beautyowner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
